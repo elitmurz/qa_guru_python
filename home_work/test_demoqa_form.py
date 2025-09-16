@@ -1,7 +1,7 @@
 import os.path
 
 from selene import browser, have, be
-test
+
 
 def test_demoqa(browser_managment):
     browser.open('/')
