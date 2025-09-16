@@ -1,5 +1,4 @@
 import pytest
-from pygments.styles.dracula import yellow
 from selene import browser
 from selenium import webdriver
 
